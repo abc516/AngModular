@@ -44,6 +44,7 @@
     "gulp-filter": "^1.0.2",
     "gulp-imagemin": "^1.0.1",
     "gulp-inject": "^1.0.1",
+    "gulp-rename": "^1.2.0",
     "gulp-jscs": "^1.1.2",
     "gulp-jshint": "^1.7.1",
     "gulp-load-plugins": "^0.6.0",
